@@ -1,6 +1,5 @@
 # About Me 👋
 I am a Data Scientist at CyberAgent, Inc.
-
 I am interested in growing our business using data science, especially A/B testing and counterfactual machine learning.
 
 ## My Intrests
