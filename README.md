@@ -42,13 +42,14 @@ I am interested in growing our business using data science, especially A/B testi
 ## Talks
 
 ### Upcoming
-* 産業組織Ⅱ@東大 2020 7/13 [[link](https://catalog.he.u-tokyo.ac.jp/detail?code=0704235&year=2020)]
 
 ### 2020
 * 因果推論の知見がテック企業の課題をどう解決するか？
   * 日本経済学会 2020年度春季大会 [[slide](https://speakerdeck.com/ko_fujita1/how-causal-inference-findings-solve-tech-companies-challenges)] [[link](https://cyberagent.ai/blog/pr/release_event/13050/)]
 * WWWでの論文採択とA/Bテストを評価地点とする広告AI開発
   * JSAI2020 オーガナイズセッション「広告とAI」 [[slide](https://speakerdeck.com/ko_fujita1/www2020)] [[link](https://sites.google.com/view/jsai2020-os12-ad-ai/)]
+* 因果推論の知見がテック企業の課題をどう解決するか？
+  * 産業組織Ⅱ@東大 [[slide](https://speakerdeck.com/ko_fujita1/how-causal-inference-findings-solve-tech-companies-challenges-at-ut)] [[link](https://catalog.he.u-tokyo.ac.jp/detail?code=0704235&year=2020)]
 
 ### 2019
 * アドテクにおけるBandit Algorithmの活用
