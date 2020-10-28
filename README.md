@@ -42,6 +42,7 @@ I am interested in growing our business using data science, especially A/B testi
 ## Talks
 
 ### Upcoming
+* 日本評価学会第21回全国大会『ITの利用と評価』セッション [[link](http://evaluationjp.org/activity/index21.html)]
 
 ### 2020
 * 因果推論の知見がテック企業の課題をどう解決するか？
