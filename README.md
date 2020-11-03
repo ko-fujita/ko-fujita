@@ -19,7 +19,8 @@ I am interested in growing our business using data science, especially A/B testi
   * published two research papers
 * Data One, 2020.11 - present
 * Data Science Center, 2019.10 - present
-  * consult data science projects  
+  * consult data science projects
+  * support the implementation of A/B testing infrastructure
 
 
 ### Research Assistant, Hitotsubashi University Graduate School of International Corporate Strategy, 2016.07 - 2017.12
