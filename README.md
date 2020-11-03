@@ -13,10 +13,11 @@ I am interested in growing our business using data science, especially A/B testi
 
 ## Employment
 ### Data Scientist, CyberAgent, Inc., 2018.04 - present
-* Dynalyst, 2018.06 - present
-  * A/B testing, response prediction, bandit algorithm
+* Dynalyst, 2018.06 - 2020.10
   * data science team manager / product manager
+  * A/B testing, response prediction, bandit algorithm
   * published two research papers
+* Data One, 2020.11 - present
 * Data Science Center, 2019.10 - present
   * consult data science projects  
 
