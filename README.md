@@ -53,6 +53,8 @@ I am interested in growing our business using data science, especially A/B testi
   * JSAI2020 オーガナイズセッション「広告とAI」 [[slide](https://speakerdeck.com/ko_fujita1/www2020)] [[link](https://sites.google.com/view/jsai2020-os12-ad-ai/)]
 * 因果推論の知見がテック企業の課題をどう解決するか？
   * 産業組織Ⅱ@東大 [[slide](https://speakerdeck.com/ko_fujita1/how-causal-inference-findings-solve-tech-companies-challenges-at-ut)] [[link](https://catalog.he.u-tokyo.ac.jp/detail?code=0704235&year=2020)]
+* IT事業をグロースさせるRCT (A/Bテスト)
+  * 日本評価学会第21回全国大会『ITの利用と評価』セッション[[slide](https://speakerdeck.com/ko_fujita1/how-to-grow-our-it-business-with-randomized-controlled-trials)][[link](http://evaluationjp.org/activity/start.htm)]
 
 ### 2019
 * アドテクにおけるBandit Algorithmの活用
