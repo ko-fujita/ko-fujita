@@ -18,6 +18,7 @@ I am interested in growing our business using data science, especially A/B testi
   * A/B testing, response prediction, bandit algorithm
   * published two research papers
 * Data One, 2020.11 - present
+  * analyze POS data
 * Data Science Center, 2019.10 - present
   * consult data science projects
   * support the implementation of A/B testing infrastructure
