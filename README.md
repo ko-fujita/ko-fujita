@@ -47,6 +47,10 @@ I am interested in growing our business using data science, especially A/B testi
 
 ### Upcoming
 
+### 2021
+* 事業立ち上げにデータサイエンティストは必要なのか？
+  * CA BASE NEXT [[slide](https://speakerdeck.com/ko_fujita1/how-data-scientists-can-help-startups)] [[link](https://ca-base-next.cyberagent.co.jp/sessions/start-up-and-data-science/)]
+
 ### 2020
 * 因果推論の知見がテック企業の課題をどう解決するか？
   * 日本経済学会 2020年度春季大会 [[slide](https://speakerdeck.com/ko_fujita1/how-causal-inference-findings-solve-tech-companies-challenges)] [[link](https://cyberagent.ai/blog/pr/release_event/13050/)]
@@ -68,3 +72,4 @@ I am interested in growing our business using data science, especially A/B testi
 ## Others
 * データサイエンティストはどこまでエンジニアリングをすべきか？ [[link](https://developers.cyberagent.co.jp/blog/archives/25162/)]
 * 経済学を活かしたビジネス価値創出への挑戦 [[link](https://www.cyberagent.co.jp/way/features/list/detail/id=24754)]
+* 事業立ち上げ期にデータサイエンスに関わる機能をどう作るか [[link](https://developers.cyberagent.co.jp/blog/archives/29757/)]
