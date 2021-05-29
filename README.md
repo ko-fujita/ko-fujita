@@ -49,7 +49,7 @@ I am interested in growing our business using data science, especially A/B testi
 
 ### 2021
 * 事業立ち上げにデータサイエンティストは必要なのか？
-  * CA BASE NEXT [[slide](https://speakerdeck.com/ko_fujita1/how-data-scientists-can-help-startups)] [[link](https://ca-base-next.cyberagent.co.jp/sessions/start-up-and-data-science/)]
+  * CA BASE NEXT [[slide](https://speakerdeck.com/ko_fujita1/how-data-scientists-can-help-startups)] [[link](https://ca-base-next.cyberagent.co.jp/sessions/start-up-and-data-science/)] [[video](https://www.youtube.com/watch?v=Vbj97j9GkeU)]
 
 ### 2020
 * 因果推論の知見がテック企業の課題をどう解決するか？
