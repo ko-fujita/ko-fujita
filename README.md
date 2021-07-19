@@ -73,3 +73,4 @@ I am interested in growing our business using data science, especially A/B testi
 * データサイエンティストはどこまでエンジニアリングをすべきか？ [[link](https://developers.cyberagent.co.jp/blog/archives/25162/)]
 * 経済学を活かしたビジネス価値創出への挑戦 [[link](https://www.cyberagent.co.jp/way/features/list/detail/id=24754)]
 * 事業立ち上げ期にデータサイエンスに関わる機能をどう作るか [[link](https://developers.cyberagent.co.jp/blog/archives/29757/)]
+* 白金鉱業.FM 「もっと語りたい『事業立ち上げにデータサイエンティストは必要なのか？』」 [[link1](https://shirokane-kougyou.fm/episode/52)][[link2](https://open.spotify.com/episode/2sJlNnVKnxPMqEKeaRJqul?si=qTug6ExlQuGH0ZjE9tMnKg&dl_branch=1)]
