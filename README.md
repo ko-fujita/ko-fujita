@@ -46,6 +46,7 @@ I am interested in growing our business using data science, especially A/B testi
 ## Talks
 
 ### Upcoming
+* KDD2021 参加報告&論文読み会 2021/09/24 [[link]https://connpass.com/event/223966/]
 
 ### 2021
 * 事業立ち上げにデータサイエンティストは必要なのか？
