@@ -52,6 +52,7 @@ I am interested in growing our business using data science, especially A/B testi
   * CA BASE NEXT [[slide](https://speakerdeck.com/ko_fujita1/how-data-scientists-can-help-startups)] [[link](https://ca-base-next.cyberagent.co.jp/sessions/start-up-and-data-science/)] [[video](https://www.youtube.com/watch?v=Vbj97j9GkeU)]
  * "Trustworthy Online Marketplace Experimentation with Budget-split Design"
    * KDD2021 参加報告&論文読み会 2021/09/24 [[slide](https://speakerdeck.com/ko_fujita1/trustworthy-online-marketplace-experimentation-with-budget-split-design)] [[link](https://connpass.com/event/223966/)]
+ * 上智大講義
 
 ### 2020
 * 因果推論の知見がテック企業の課題をどう解決するか？
