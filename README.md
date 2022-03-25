@@ -17,10 +17,12 @@ I am interested in growing our business using data science, especially A/B testi
   * data science team manager / product manager
   * A/B testing, response prediction, bandit algorithm
   * published two research papers
-* Data One, 2020.11 - present
+* Data One, 2020.11 - 2021.11
   * design and implement data management platform
   * POS data marketing
   * uplift model
+* App Operation Center, 2021.12 - present
+  * launch and grow retail app
 * Data Science Center, 2019.10 - present
   * consult data science projects (DSP, EC, health tech, digital signage, ...)
   * support the implementation of A/B testing system
