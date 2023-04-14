@@ -24,7 +24,7 @@ I am a Data Scientist at CyberAgent, Inc.
 * Data Science Center, 2019.10 - present
   * consult data science projects (DSP, EC, health tech, digital signage, ...)
   * support the implementation of A/B testing system
-  * onboading [[link](https://developers.cyberagent.co.jp/blog/archives/34628/)]
+  * onboarding [[link](https://developers.cyberagent.co.jp/blog/archives/34628/)]
 
 
 ### Research Assistant, Hitotsubashi University Graduate School of International Corporate Strategy, 2016.07 - 2017.12
