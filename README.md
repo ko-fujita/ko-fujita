@@ -39,15 +39,21 @@ I am a Data Scientist at CyberAgent, Inc.
   * Supervisor: Prof. Asuka Takeuchi
 
 ## Publications
+### Papers
 * Yasui, Shota, Gota Morishita, Komei Fujita, Masashi Shibata. "A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback." The Web Conference (WWW), Taipei, Apr. 2020
 [arxiv](https://arxiv.org/abs/2002.02068)
 
 * Daisuke Moriwaki, Komei Fujita, Shota Yasui, Takahiro Hoshino. "Fatigue-Aware Ad Creative Selection." WSDM Workshop on State-based User Modelling (SUM), Houston, USA, Feb. 2020
 [arxiv](https://arxiv.org/abs/1908.08936)
 
-## Talks
+### Books
+* 「因果推論入門〜ミックステープ：基礎から現代的アプローチまで」 with colleagues [link](https://gihyo.jp/book/2023/978-4-297-13417-4)
 
+## Talks
 ### Upcoming
+### 2023
+* 協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先
+  * CA BASE NEXT 2022 [[link](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/)][[slide](https://speakerdeck.com/ko_fujita1/unexpected-demand-in-dx)]
 
 ### 2022
 * データサイエンティスト/プロジェクトマネージャー二人三脚の小売DX with Ryutaro Amiya
