@@ -80,6 +80,6 @@
 * [データサイエンティストはどこまでエンジニアリングをすべきか？](https://developers.cyberagent.co.jp/blog/archives/25162/)
 * [経済学を活かしたビジネス価値創出への挑戦](https://www.cyberagent.co.jp/way/features/list/detail/id=24754)
 * [事業立ち上げ期にデータサイエンスに関わる機能をどう作るか](https://developers.cyberagent.co.jp/blog/archives/29757/)
-* [白金鉱業.FM 「もっと語りたい『事業立ち上げにデータサイエンティストは必要なのか？』」](https://shirokane-kougyou.fm/episode/52) [[Spotifyリンク](https://open.spotify.com/episode/2sJlNnVKnxPMqEKeaRJqul?si=qTug6ExlQuGH0ZjE9tMnKg&dl_branch=1)]
+* [白金鉱業.FM 「もっと語りたい『事業立ち上げにデータサイエンティストは必要なのか？』」](https://shirokane-kougyou.github.io/episode/52)
 * [なぜあなたのA/Bテストはうまくいくのか？A/Bテストの分析で注意すること](https://developers.cyberagent.co.jp/blog/archives/33310/)（伊藤寛武氏と共著）
 * [アカデミアの知見をビジネスへ。「知」を横断するチームとは？ AD STUDIES Vol.78](https://www.yhmf.jp/as/postnumber/vol_78_05.html)
