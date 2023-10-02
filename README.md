@@ -1,6 +1,6 @@
 # Komei Fujita / 藤田 光明
 # About Me 👋
-東京大学経済学研究科修士課程を修了後、データサイエンティストとしてサイバーエージェントに新卒入社。AI事業本部Dynalystで、オンライン広告配信アルゴリズムの改善における、分析・施策立案・アルゴリズム開発・プロダクト実装・効果検証の一連のフローやチームマネジメントを経験。また、社内研究組織との共著論文がWWWなどの国際学会に採択。その後、小売の購買データを用いた広告配信プロダクト「データワン」の立ち上げに参画し、DMPやDSPの構築を行った。現在は同じく小売DX領域にて、ドラッグストアアプリのグロースやアプリ内販促の効果検証・施策設計に携わっている。また、兼務で経済学を活用した新規事業の立ち上げ中。
+東京大学経済学研究科修士課程を修了後、データサイエンティストとしてサイバーエージェントに新卒入社。AI事業本部Dynalystで、オンライン広告配信アルゴリズムの改善における、分析・施策立案・アルゴリズム開発・プロダクト実装・効果検証の一連のフローやチームマネジメントを経験。また、社内研究組織との共著論文がWWWなどの国際学会に採択。その後、小売の購買データを用いた広告配信プロダクト「データワン」の立ち上げに参画し、DMPやDSPの構築を行った。現在は同じく小売DX領域にて、ドラッグストアアプリのグロースやアプリ内販促の効果検証・施策設計に携わっている。また、兼務で経済学を活用した新規事業の立ち上げ中。2023年Forbes Japan 30 Under 30に選出。
 
 Mail: komei.fujita[at]gmail.com
 
@@ -80,6 +80,8 @@ Mail: komei.fujita[at]gmail.com
 * [CFML@KDD2019](https://speakerdeck.com/ko_fujita1/cfml-at-kdd2019) @Counterfactual Machine Learning勉強会#2
 
 ## Others
+* [「AI × 経済学」で社会に貢献するために、データサイエンティストが創出し続ける新たな価値](https://www.cyberagent.co.jp/way/list/detail/id=29349)
+* [世界を変える30歳未満「Forbes JAPAN 30 UNDER 30 2023」に選出](https://www.cyberagent.co.jp/techinfo/news/detail/id=29259)
 * [データサイエンティストはどこまでエンジニアリングをすべきか？](https://developers.cyberagent.co.jp/blog/archives/25162/)
 * [経済学を活かしたビジネス価値創出への挑戦](https://www.cyberagent.co.jp/way/features/list/detail/id=24754)
 * [事業立ち上げ期にデータサイエンスに関わる機能をどう作るか](https://developers.cyberagent.co.jp/blog/archives/29757/)
