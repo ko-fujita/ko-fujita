@@ -60,12 +60,15 @@ Mail: komei.fujita[at]gmail.com
 ### Upcoming
 ### 2023
 * [協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/) @CyberAgent Developer Conference 2023
+* 経済学を活用して事業拡大に貢献するということ ([part1](https://open.spotify.com/episode/1ZC43fxcqM2o8G8YBMnYh2?si=584638534eff4cc5), [part2](https://open.spotify.com/episode/4TjJ4aeUZoLJCqPCPNtEIl?si=3a3b4e2f1d464ad5)) @溶け込むラジオ
+* 因果効果に基づく意思決定入門 @[第89回人工知能セミナー](https://www.ai-gakkai.or.jp/event/ai-seminar/no89_jsai_seminar/)
 
 ### 2022
 * [データサイエンティスト/プロジェクトマネージャー二人三脚の小売DX](https://ca-base-next.cyberagent.co.jp/2022/sessions/dx-data-science/)（網谷龍太朗氏と共同発表）@CyberAgent Base Next 2022
 
 ### 2021
 * [事業立ち上げにデータサイエンティストは必要なのか？](https://ca-base-next.cyberagent.co.jp/2021/sessions/start-up-and-data-science/) [[スライド](https://speakerdeck.com/ko_fujita1/how-data-scientists-can-help-startups)] @CyberAgent Base Next 2021
+* [「もっと語りたい『事業立ち上げにデータサイエンティストは必要なのか？』」](https://shirokane-kougyou.github.io/episode/52) @白金鉱業.FM
  * [Trustworthy Online Marketplace Experimentation with Budget-split Design](https://speakerdeck.com/ko_fujita1/trustworthy-online-marketplace-experimentation-with-budget-split-design) @KDD2021参加報告&論文読み会
  * 上智大学講義
 
@@ -84,7 +87,6 @@ Mail: komei.fujita[at]gmail.com
 * [世界を変える30歳未満「Forbes JAPAN 30 UNDER 30 2023」に選出](https://www.cyberagent.co.jp/techinfo/news/detail/id=29259)
 * [アカデミアの知見をビジネスへ。「知」を横断するチームとは？ AD STUDIES Vol.78](https://www.yhmf.jp/as/postnumber/vol_78_05.html)
 * [なぜあなたのA/Bテストはうまくいくのか？A/Bテストの分析で注意すること](https://developers.cyberagent.co.jp/blog/archives/33310/)（伊藤寛武氏と共著）
-* [白金鉱業.FM 「もっと語りたい『事業立ち上げにデータサイエンティストは必要なのか？』」](https://shirokane-kougyou.github.io/episode/52)
 * [事業立ち上げ期にデータサイエンスに関わる機能をどう作るか](https://developers.cyberagent.co.jp/blog/archives/29757/)
 * [経済学を活かしたビジネス価値創出への挑戦](https://www.cyberagent.co.jp/way/features/list/detail/id=24754)
 * [データサイエンティストはどこまでエンジニアリングをすべきか？](https://developers.cyberagent.co.jp/blog/archives/25162/)
