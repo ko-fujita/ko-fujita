@@ -90,3 +90,5 @@ Mail: komei.fujita[at]gmail.com
 * [事業立ち上げ期にデータサイエンスに関わる機能をどう作るか](https://developers.cyberagent.co.jp/blog/archives/29757/)
 * [経済学を活かしたビジネス価値創出への挑戦](https://www.cyberagent.co.jp/way/features/list/detail/id=24754)
 * [データサイエンティストはどこまでエンジニアリングをすべきか？](https://developers.cyberagent.co.jp/blog/archives/25162/)
+* [店頭施策の起爆剤になるか？AI×経済学でダイナミックプライシングの実現へ](https://diamond-rm.net/promotion/pr/467160/)
+* [リテールメディア戦略への提言 第4回／経済学を駆使すれば価格最適化が実現できる](https://gekiryu-online.jp/2023/11/146984)
