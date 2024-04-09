@@ -58,6 +58,11 @@ Mail: komei.fujita[at]gmail.com
 
 ## Talks
 ### Upcoming
+* 24/4/25 多様性の時代における、経済学を使った顧客理解とプライシング @[AI Marketing BB](https://web3bb2024.pivot-tokyo.com/program-aimarketing) 
+
+### 2024
+* Z世代と社会、企業をつなぐSDGs @[日経SDGsフォーラム特別シンポジウムin渋谷](https://events.nikkei.co.jp/64517/)
+
 ### 2023
 * [協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/) @CyberAgent Developer Conference 2023
 * 経済学を活用して事業拡大に貢献するということ ([part1](https://open.spotify.com/episode/1ZC43fxcqM2o8G8YBMnYh2?si=584638534eff4cc5), [part2](https://open.spotify.com/episode/4TjJ4aeUZoLJCqPCPNtEIl?si=3a3b4e2f1d464ad5)) @溶け込むラジオ
