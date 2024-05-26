@@ -30,7 +30,7 @@ Mail: komei.fujita[at]gmail.com
   * 施策の実行に関わる顧客折衝 [[詳細](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/)]
   * チームマネジメント(5人ほど)
 * AI経済学カンパニー, プロダクトマネージャー, 2023.02 - 現在
-* データサイエンスセンター, ボードメンバー, Data Science Center, 2019.10 - 現在
+* データサイエンスセンター, ボードメンバー, 2019.10 - 現在
   * データサイエンス組織における採用・育成・評価・コンサルティング
 
 
@@ -58,10 +58,11 @@ Mail: komei.fujita[at]gmail.com
 
 ## Talks
 ### Upcoming
-* 24/4/25 多様性の時代における、経済学を使った顧客理解とプライシング @[AI Marketing BB](https://web3bb2024.pivot-tokyo.com/program-aimarketing) 
 
 ### 2024
 * Z世代と社会、企業をつなぐSDGs @[日経SDGsフォーラム特別シンポジウムin渋谷](https://events.nikkei.co.jp/64517/)
+* 多様性の時代における、経済学を使った顧客理解とプライシング @[AI Marketing BB](https://web3bb2024.pivot-tokyo.com/program-aimarketing)
+* [『反実仮想機械学習』出版記念イベント](https://cfml.connpass.com/event/313112/)
 
 ### 2023
 * [協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/) @CyberAgent Developer Conference 2023
