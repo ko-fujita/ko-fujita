@@ -98,3 +98,5 @@ Mail: komei.fujita[at]gmail.com
 * [データサイエンティストはどこまでエンジニアリングをすべきか？](https://developers.cyberagent.co.jp/blog/archives/25162/)
 * [店頭施策の起爆剤になるか？AI×経済学でダイナミックプライシングの実現へ](https://diamond-rm.net/promotion/pr/467160/)
 * [リテールメディア戦略への提言 第4回／経済学を駆使すれば価格最適化が実現できる](https://gekiryu-online.jp/2023/11/146984)
+* [リテールメディア戦略への提言 第6回／データサイエンティストが明かすお客に離反されない値上げ戦略](https://gekiryu-online.jp/2024/02/156876)
+* [リテールメディア戦略への提言 第10回／実証実験で導き出した収益を最大化する適正価格](https://gekiryu-online.jp/2024/06/167961)
