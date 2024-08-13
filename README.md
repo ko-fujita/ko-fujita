@@ -62,7 +62,7 @@ Mail: komei.fujita[at]gmail.com
 ### 2024
 * Z世代と社会、企業をつなぐSDGs @[日経SDGsフォーラム特別シンポジウムin渋谷](https://events.nikkei.co.jp/64517/)
 * 多様性の時代における、経済学を使った顧客理解とプライシング @[AI Marketing BB](https://web3bb2024.pivot-tokyo.com/program-aimarketing)
-* [『反実仮想機械学習』出版記念イベント](https://cfml.connpass.com/event/313112/)
+* [『反実仮想機械学習』出版記念イベント](https://cfml.connpass.com/event/317145/)
 
 ### 2023
 * [協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/) @CyberAgent Developer Conference 2023
