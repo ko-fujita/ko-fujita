@@ -63,6 +63,7 @@ Mail: komei.fujita[at]gmail.com
 * Z世代と社会、企業をつなぐSDGs @[日経SDGsフォーラム特別シンポジウムin渋谷](https://events.nikkei.co.jp/64517/)
 * 多様性の時代における、経済学を使った顧客理解とプライシング @[AI Marketing BB](https://web3bb2024.pivot-tokyo.com/program-aimarketing)
 * [『反実仮想機械学習』出版記念イベント](https://cfml.connpass.com/event/317145/)
+* 経済学999[part1](https://open.spotify.com/episode/3p4ODbMhfi84xj2RJ8pwcG?si=f362fda7a7f24eda)[part2](https://open.spotify.com/episode/6E2FnRAnzDRdGKOx7UqZW9?si=15290a537aef4161)[part3](https://open.spotify.com/episode/3eUNiKzlUhrjxQT6uVygnu?si=0bf635d334fd4d93)
 *  AI時代のビジネスエコノミクス@[エッセンスフォーラム2024](https://www.cyberagent.co.jp/techinfo/news/detail/id=30792)
 
 ### 2023
