@@ -65,6 +65,9 @@ Mail: komei.fujita[at]gmail.com
 * [『反実仮想機械学習』出版記念イベント](https://cfml.connpass.com/event/317145/)
 * [ももクロアイコンの秘密](https://open.spotify.com/episode/3p4ODbMhfi84xj2RJ8pwcG?si=f362fda7a7f24eda), [「AI経済学」はダサい？](https://open.spotify.com/episode/6E2FnRAnzDRdGKOx7UqZW9?si=15290a537aef4161), [経済学ビジネスのスケールのために](https://open.spotify.com/episode/3eUNiKzlUhrjxQT6uVygnu?si=0bf635d334fd4d93)@経済学999
 *  AI時代のビジネスエコノミクス@[エッセンスフォーラム2024](https://www.cyberagent.co.jp/techinfo/news/detail/id=30792)
+*  [DataXAI Decision Making Conference 2024](https://f2ff.jp/event/2024-1018)
+*  AIを活用した売上拡大・原資削減・利益最大化 -ヒト・モノ・カネの最適化@[Braze City × City Tokyo 2024](https://www.event-site.info/cbc2024/)
+*  [リテールアジェンダ2024](https://retailagenda.jp/session/?id=560)
 
 ### 2023
 * [協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/) @CyberAgent Developer Conference 2023
