@@ -29,7 +29,7 @@ Mail: komei.fujita[at]gmail.com
   * 購買・アプリ内行動・会員マスタ等を掛け合わせたCDPの構築
   * 施策の実行に関わる顧客折衝 [[詳細](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/)]
   * チームマネジメント(5人ほど)
-* AI経済学カンパニー, 事業責任者, 2023.02 - 現在
+* 価格エージェントカンパニー, 事業責任者, 2023.02 - 現在
   * 営業・事業開発・プロダクトマネジメント・PL管理・広報など
 * データサイエンスセンター, ボードメンバー, 2019.10 - 現在
   * データサイエンス組織における採用・育成・評価・コンサルティング
@@ -59,6 +59,9 @@ Mail: komei.fujita[at]gmail.com
 
 ## Talks
 ### Upcoming
+
+### 2025
+* [データサイエンティストから事業責任者へ｜経済学の魅力からAI×経済学の事業立ち上げまで](https://open.spotify.com/episode/4WJBYoaciIOTzzPeDKaZsN?si=NIH6MU5gR52AvF0MKaKRQQ), [技術者の「売る力」は武器になるか？｜事業責任者として見えた景色](https://open.spotify.com/episode/631yWdrSnacKYUphwHZwi7?si=FlXMj_Z3R8K6-dmxGurQaA)@プロダクとーく
 
 ### 2024
 * Z世代と社会、企業をつなぐSDGs @[日経SDGsフォーラム特別シンポジウムin渋谷](https://events.nikkei.co.jp/64517/)
