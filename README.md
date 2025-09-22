@@ -73,7 +73,7 @@ Mail: komei.fujita[at]gmail.com
 *  AI時代のビジネスエコノミクス@[エッセンスフォーラム2024](https://www.cyberagent.co.jp/techinfo/news/detail/id=30792)
 *  [DataXAI Decision Making Conference 2024](https://f2ff.jp/event/2024-1018)
 *  AIを活用した売上拡大・原資削減・利益最大化 -ヒト・モノ・カネの最適化@[Braze City × City Tokyo 2024](https://www.event-site.info/cbc2024/)
-*  [リテールアジェンダ2024](https://retailagenda.jp/session/?id=560)
+*  [リテールアジェンダ2024](http://2024.retailagenda.jp/session/?id=560)
 
 ### 2023
 * [協業DXにおける「斜め上の需要」に乗るデータサイエンスとその先](https://cadc.cyberagent.co.jp/2023/sessions/ds-collaboration/) @CyberAgent Developer Conference 2023
