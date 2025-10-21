@@ -59,9 +59,13 @@ Mail: komei.fujita[at]gmail.com
 
 ## Talks
 ### Upcoming
+* 関西学院大学講義
+
+### 2026
 
 ### 2025
 * [データサイエンティストから事業責任者へ｜経済学の魅力からAI×経済学の事業立ち上げまで](https://open.spotify.com/episode/4WJBYoaciIOTzzPeDKaZsN?si=NIH6MU5gR52AvF0MKaKRQQ), [技術者の「売る力」は武器になるか？｜事業責任者として見えた景色](https://open.spotify.com/episode/631yWdrSnacKYUphwHZwi7?si=FlXMj_Z3R8K6-dmxGurQaA)@プロダクとーく
+* 慶応義塾大学講義
 * Native Apps Frameworkで実現するクーポン原資70%削減AIエージェント@[SNOWFLAKE WORLD TOUR TOKYO 2025](https://www.cyberagent.co.jp/techinfo/news/detail/id=32210)
 * AI×経済学でクーポン原資の無駄を削減する「価格エージェント」@[AI BB Tokyo 2025](https://www.web3bb2025.pivot-tokyo.com/program-autumn)
 
