@@ -59,7 +59,6 @@ Mail: komei.fujita[at]gmail.com
 
 ## Talks
 ### Upcoming
-* 関西学院大学講義
 
 ### 2026
 
@@ -68,6 +67,8 @@ Mail: komei.fujita[at]gmail.com
 * 慶応義塾大学講義
 * Native Apps Frameworkで実現するクーポン原資70%削減AIエージェント@[SNOWFLAKE WORLD TOUR TOKYO 2025](https://www.cyberagent.co.jp/techinfo/news/detail/id=32210)
 * AI×経済学でクーポン原資の無駄を削減する「価格エージェント」@[AI BB Tokyo 2025](https://www.web3bb2025.pivot-tokyo.com/program-autumn)
+* 関西学院大学講義
+* 価格エージェント - Native Apps Frameworkで実現するクーポン原資70%削減 - @[SNOWFLAKE INDUSTRY DAYS 2025](https://www.snowflake.com/events/industry-days-2025-japan/)
 
 ### 2024
 * Z世代と社会、企業をつなぐSDGs @[日経SDGsフォーラム特別シンポジウムin渋谷](https://events.nikkei.co.jp/64517/)
@@ -105,6 +106,8 @@ Mail: komei.fujita[at]gmail.com
 * [CFML@KDD2019](https://speakerdeck.com/ko_fujita1/cfml-at-kdd2019) @Counterfactual Machine Learning勉強会#2
 
 ## Others
+* [値引きの常識を問い直す。サイバーエージェントが仕掛ける「値引き革命」](https://www.cyberagent.co.jp/way/list/detail/id=32902)
+* [サイバーエージェントがAIで挑む「値引き革命」、クーポン費用“7割減”の仕組みとは](https://www.sbbit.jp/article/sp/175876)
 * [「AI × 経済学」で社会に貢献するために、データサイエンティストが創出し続ける新たな価値](https://www.cyberagent.co.jp/way/list/detail/id=29349)
 * [世界を変える30歳未満「Forbes JAPAN 30 UNDER 30 2023」に選出](https://www.cyberagent.co.jp/techinfo/news/detail/id=29259)
 * [アカデミアの知見をビジネスへ。「知」を横断するチームとは？ AD STUDIES Vol.78](https://www.yhmf.jp/as/postnumber/vol_78_05.html)
