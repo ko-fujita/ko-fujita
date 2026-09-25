@@ -106,6 +106,7 @@ Mail: komei.fujita[at]gmail.com
 * [CFML@KDD2019](https://speakerdeck.com/ko_fujita1/cfml-at-kdd2019) @Counterfactual Machine Learning勉強会#2
 
 ## Others
+* [【サイバー発】一番稼げる「お値段」は、AIが教えます](https://newspicks.com/news/17023599/)
 * [値引きの常識を問い直す。サイバーエージェントが仕掛ける「値引き革命」](https://www.cyberagent.co.jp/way/list/detail/id=32902)
 * [サイバーエージェントがAIで挑む「値引き革命」、クーポン費用“7割減”の仕組みとは](https://www.sbbit.jp/article/sp/175876)
 * [「AI × 経済学」で社会に貢献するために、データサイエンティストが創出し続ける新たな価値](https://www.cyberagent.co.jp/way/list/detail/id=29349)
